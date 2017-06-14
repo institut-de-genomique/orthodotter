@@ -1,4 +1,8 @@
+Orthodotter
+--------------
+Readme under construction
 ```
+orthodotter -h
 --------------------------------------------------------------------------------
 orthodotter - Plot orthologous genes on an oxford grid.
        -f <file>     : input file, containing orthologous genes, default is stdin

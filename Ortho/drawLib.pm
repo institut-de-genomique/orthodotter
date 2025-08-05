@@ -41,7 +41,7 @@ use FileHandle;
 use GD;
 
 use constant RGB_FILE_PATH =>
-  '/env/cns/ARCH/common/lib/perl5/LibAnnotation/Ortho/rgb.txt';
+  '../Ortho/rgb.txt';
 
 sub drawCmd {
     my (
